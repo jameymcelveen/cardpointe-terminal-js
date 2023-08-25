@@ -1,0 +1,15 @@
+{
+  "name": "cardpointe-terminal-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Jamey McElveen",
+    "email": "jamey@mcelveen.us",
+    "url": "https://jameymcelveen.com"
+  },
+  "license": "MIT"
+}

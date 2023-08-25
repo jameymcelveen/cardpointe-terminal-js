@@ -1,0 +1,6 @@
+{
+  "site": "bolt-uat",
+  "url": "https://{{site}}.cardpointe.com",
+  "merchantId": "",
+  "authorization": ""
+}
